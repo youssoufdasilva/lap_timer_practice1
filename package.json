@@ -1,0 +1,23 @@
+{
+  "name": "lap_timer_practice1",
+  "version": "1.0.0",
+  "description": "Practicing for a test sent by DCSL Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youssoufdasilva/lap_timer_practice1.git"
+  },
+  "keywords": [
+    "Lap",
+    "Timer"
+  ],
+  "author": "Youssouf da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youssoufdasilva/lap_timer_practice1/issues"
+  },
+  "homepage": "https://github.com/youssoufdasilva/lap_timer_practice1#readme"
+}
