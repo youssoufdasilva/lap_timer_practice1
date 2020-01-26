@@ -2,9 +2,11 @@
   "name": "lap_timer_practice1",
   "version": "1.0.0",
   "description": "Practicing for a test sent by DCSL Software",
-  "main": "index.js",
+  "main": "_app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -19,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/youssoufdasilva/lap_timer_practice1/issues"
   },
-  "homepage": "https://github.com/youssoufdasilva/lap_timer_practice1#readme"
+  "homepage": "https://github.com/youssoufdasilva/lap_timer_practice1#readme",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
 }
